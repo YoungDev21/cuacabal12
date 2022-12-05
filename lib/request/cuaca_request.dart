@@ -1,4 +1,4 @@
-import 'package:cuaca002/model/cuaca_model.dart';
+import 'package:cuacabal/model/cuaca_model.dart';
 import 'package:dio/dio.dart';
 
 class CuacaRequest {

@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
-import 'package:cuaca002/model/cuaca_model.dart';
-import 'package:cuaca002/request/cuaca_request.dart';
+import 'package:cuacabal/model/cuaca_model.dart';
+import 'package:cuacabal/request/cuaca_request.dart';
 import 'package:meta/meta.dart';
 
 part 'cuaca_state.dart';
